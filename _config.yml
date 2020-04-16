@@ -1,0 +1,19 @@
+# Site settings
+title: Jay Kumar Sahu
+description: Full Stack Developer
+
+url: "https://jaykumarsahu.github.io"
+
+username: Jay Kumar Sahu
+user_description:
+  Jay is a full stack ROR developer based in India.
+  He takes delight in writing maintainable code and he’s currently learning Go.
+  Though generally a backend developer, he can work with front-end technologies like React.
+
+user_title: Full Stack Web Developer
+
+email: jsahu.ror@gmail.com
+github_username:  jaykumarsahu
+linkedin_username:  jay-kumar-sahu-5399847a
+
+exclude: ['package.json', 'src' , 'node_modules']
