@@ -14,6 +14,6 @@ user_title: Full Stack Web Developer
 
 email: jsahu.ror@gmail.com
 github_username:  jaykumarsahu
-linkedin_username:  jay-kumar-sahu-5399847a
+linkedin_username:  jaykumarsahu
 
 exclude: ['package.json', 'src' , 'node_modules']
