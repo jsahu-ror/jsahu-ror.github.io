@@ -4731,3 +4731,11 @@ sub, sup {
     margin-top: -10%;
     width: 100px !important;
 }
+
+#img img{
+    width: 100%;
+}
+#img em{
+    float: left;
+    font-size: x-small;
+}

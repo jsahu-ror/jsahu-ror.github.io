@@ -1,17 +1,22 @@
 <div class="user-details">
-  <h1>Expertise</h1>
+  <p id='img'>
+
+    <img src="{{ '/assets/image.jpg' }}" alt="" srcset="">
+    <em>Petronas Twin Towers, Kuala Lumpur, Malaysia</em>
+  </p>
+  <br>
+
   <p>{{ site.user_description }}</p>
 </div>
 
 <div class="user-details">
   <h1>Technical Qualifications and Experiences</h1>
-  <!-- <p>{{ site.user_description }}</p> -->
 </div>
 
 <div class="user">
   {% include code.html %}
-  {% include design.html %}
   {% include dev_ops.html %}
+  {% include design.html %}
   {% include library.html %}
   {% include msg_bus.html %}
   {% include tools.html %}
